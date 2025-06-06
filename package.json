@@ -1,0 +1,24 @@
+{
+  "name": "css-sass",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/wakabibrian/css-sass#readme",
+  "bugs": {
+    "url": "https://github.com/wakabibrian/css-sass/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakabibrian/css-sass.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
