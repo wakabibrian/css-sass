@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/wakabibrian/css-sass/compare/v1.1.0...v1.2.0) (2025-06-07)
+
+
+### Features
+
+* Add Building the Header - Part 2 ([6e72d6a](https://github.com/wakabibrian/css-sass/commit/6e72d6a8dc66a1e820330d7d419b03220d8a581e))
+* Add building the header part 1 ([28ca899](https://github.com/wakabibrian/css-sass/commit/28ca8995427eb70afa34e4413f7b9db2e2e62300))
+* Add global reset in css ([7ca95e9](https://github.com/wakabibrian/css-sass/commit/7ca95e992cac52024bde9ab6e367940f0d0c363c))
+
 ## 1.1.0 (2025-06-06)
 
 
