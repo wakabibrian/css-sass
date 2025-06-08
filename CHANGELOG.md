@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/wakabibrian/css-sass/compare/v1.2.0...v1.3.0) (2025-06-08)
+
+
+### Features
+
+* Add Creating Cool CSS Animations ([da067c5](https://github.com/wakabibrian/css-sass/commit/da067c55f3dd8b4ae29e1e66fdee2e4379a17b68))
+
 ## [1.2.0](https://github.com/wakabibrian/css-sass/compare/v1.1.0...v1.2.0) (2025-06-07)
 
 
