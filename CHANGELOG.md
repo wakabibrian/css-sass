@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/wakabibrian/css-sass/compare/v1.4.0...v1.5.0) (2025-06-09)
+
+
+### Features
+
+* Add Converting px to rem: An Effective Workflow ([58b3493](https://github.com/wakabibrian/css-sass/commit/58b34935eeffaa5ef6eec45fab8b57640bf12f69))
+* Add Implementing BEM in the Natours Project ([0d44bcc](https://github.com/wakabibrian/css-sass/commit/0d44bcc752137453112f417b15ccaaa2e66620a8))
+
 ## [1.4.0](https://github.com/wakabibrian/css-sass/compare/v1.3.0...v1.4.0) (2025-06-09)
 
 
