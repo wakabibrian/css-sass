@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/wakabibrian/css-sass/compare/v1.5.0...v1.6.0) (2025-06-12)
+
+
+### Features
+
+* Add install sass locally ([38432d6](https://github.com/wakabibrian/css-sass/commit/38432d6dfeff4730ba0a3b4713a7cac0c8d7f183))
+
 ## [1.5.0](https://github.com/wakabibrian/css-sass/compare/v1.4.0...v1.5.0) (2025-06-09)
 
 
