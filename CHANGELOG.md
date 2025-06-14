@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/wakabibrian/css-sass/compare/v1.7.0...v1.8.0) (2025-06-14)
+
+
+### Features
+
+* Add Converting Our CSS Code to Sass: Variables and Nesting ([f7582bd](https://github.com/wakabibrian/css-sass/commit/f7582bd05f5416ee4a5f968a11ac7e165570aaee))
+
 ## [1.7.0](https://github.com/wakabibrian/css-sass/compare/v1.6.0...v1.7.0) (2025-06-14)
 
 
