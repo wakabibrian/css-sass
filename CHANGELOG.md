@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/wakabibrian/css-sass/compare/v1.6.0...v1.7.0) (2025-06-14)
+
+
+### Features
+
+* Add watching sass - automatic compilation ([7a3500d](https://github.com/wakabibrian/css-sass/commit/7a3500d8e23128aeb9533583069b64f3b213aa7c))
+
 ## [1.6.0](https://github.com/wakabibrian/css-sass/compare/v1.5.0...v1.6.0) (2025-06-12)
 
 
