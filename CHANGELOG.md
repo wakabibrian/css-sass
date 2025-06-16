@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/wakabibrian/css-sass/compare/v1.9.0...v1.10.0) (2025-06-16)
+
+
+### Features
+
+* Add Building a Custom Grid with Floats ([5982b3e](https://github.com/wakabibrian/css-sass/commit/5982b3e7333e55473cb44d82644b7e19843172a3))
+
 ## [1.9.0](https://github.com/wakabibrian/css-sass/compare/v1.8.0...v1.9.0) (2025-06-16)
 
 
