@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/wakabibrian/css-sass/compare/v1.8.0...v1.9.0) (2025-06-16)
+
+
+### Features
+
+* Add Implementing the 7-1 CSS Architecture with Sass ([6f89180](https://github.com/wakabibrian/css-sass/commit/6f89180479c911f7741598179a890b0253f6a771))
+
 ## [1.8.0](https://github.com/wakabibrian/css-sass/compare/v1.7.0...v1.8.0) (2025-06-14)
 
 
