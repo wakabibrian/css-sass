@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/wakabibrian/css-sass/compare/v1.11.0...v1.12.0) (2025-06-19)
+
+
+### Features
+
+* Add Building the Features Section ([4afc831](https://github.com/wakabibrian/css-sass/commit/4afc8311f6115e532d074a6e18df724372fbcdfc))
+
 ## [1.11.0](https://github.com/wakabibrian/css-sass/compare/v1.10.0...v1.11.0) (2025-06-19)
 
 
