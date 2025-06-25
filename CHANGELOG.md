@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.13.0](https://github.com/wakabibrian/css-sass/compare/v1.12.0...v1.13.0) (2025-06-25)
+
+
+### Features
+
+* Add  Building the Tours Section - Part 3 ([9427f9c](https://github.com/wakabibrian/css-sass/commit/9427f9cbf2484a4786d8aba7ffd755908deeea07))
+* Add Building the Tours Section - Part 1 ([0030fd1](https://github.com/wakabibrian/css-sass/commit/0030fd17c3857d9ad6d17fc039c11e6ce1caf2d6))
+* Add Building the Tours Section - Part 2 ([1403bf1](https://github.com/wakabibrian/css-sass/commit/1403bf1da7c06502926894052b77a5b0ac4702e8))
+* Add Building the Tours Section - Part 2 ([cc681b0](https://github.com/wakabibrian/css-sass/commit/cc681b0fb423e40453e441a7d52ed1bdfd70410b))
+
 ## [1.12.0](https://github.com/wakabibrian/css-sass/compare/v1.11.0...v1.12.0) (2025-06-19)
 
 
