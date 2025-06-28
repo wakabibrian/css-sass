@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.14.0](https://github.com/wakabibrian/css-sass/compare/v1.13.0...v1.14.0) (2025-06-28)
+
+
+### Features
+
+* Add Building the Stories Section - Part 1 ([e47022d](https://github.com/wakabibrian/css-sass/commit/e47022dfdb54e5baa02dfd06bc2059270f00336f))
+* Add Building the Stories Section - Part 2 ([8b862b7](https://github.com/wakabibrian/css-sass/commit/8b862b75ab4186646e6627703ac21d86f178be98))
+* Add Building the Stories Section - Part 3 ([8976fa9](https://github.com/wakabibrian/css-sass/commit/8976fa93f827d599b6c25cda68ef084ef2011809))
+
 ## [1.13.0](https://github.com/wakabibrian/css-sass/compare/v1.12.0...v1.13.0) (2025-06-25)
 
 
