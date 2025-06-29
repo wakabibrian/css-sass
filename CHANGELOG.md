@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.16.0](https://github.com/wakabibrian/css-sass/compare/v1.15.0...v1.16.0) (2025-06-29)
+
+
+### Features
+
+* Add Building the Footer ([7d1204c](https://github.com/wakabibrian/css-sass/commit/7d1204c5a25e7ec57e26b6f513d059943b506757))
+
 ## [1.15.0](https://github.com/wakabibrian/css-sass/compare/v1.14.0...v1.15.0) (2025-06-29)
 
 
