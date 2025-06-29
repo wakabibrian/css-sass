@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.15.0](https://github.com/wakabibrian/css-sass/compare/v1.14.0...v1.15.0) (2025-06-29)
+
+
+### Features
+
+* Add Building the Booking Section - Part 1 ([d8fbd82](https://github.com/wakabibrian/css-sass/commit/d8fbd821d86a6508c87093233691b84025158bfb))
+* Add Building the Booking Section - Part 2 ([122ab5c](https://github.com/wakabibrian/css-sass/commit/122ab5c779dce143eac8bcc42ffff4fb538349fa))
+* Add Building the Booking Section - Part 3 ([4a0a5f7](https://github.com/wakabibrian/css-sass/commit/4a0a5f71d557c157fef2468b1206e84ec2aebafc))
+
 ## [1.14.0](https://github.com/wakabibrian/css-sass/compare/v1.13.0...v1.14.0) (2025-06-28)
 
 
